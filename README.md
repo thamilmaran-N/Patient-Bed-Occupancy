@@ -93,7 +93,9 @@ The Wrist Band Unit is a wearable device used to verify patient presence using B
 - Accurate detection of patient presence and absence  
 - Identification of abnormal bed conditions  
 - Real-time data storage in Firebase  
-- Reduced manual monitoring by hospital staff  
+- Reduced manual monitoring by hospital staff
+<img width="682" height="442" alt="image" src="https://github.com/user-attachments/assets/f0fb9983-2bcd-4de5-99e9-0e65dcef8e4d" />
+<img width="563" height="339" alt="image" src="https://github.com/user-attachments/assets/8c9b0337-38ce-4696-b6a4-9d39e3867ca6" />
 
 ---
 
